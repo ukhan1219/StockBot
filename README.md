@@ -25,4 +25,4 @@ To get started with StockBot, you will need to:
 3.  Run the provided scripts to start data retrieval and analysis.
 4.  Monitor the output and webhook alerts for buy/sell signals.
 ## Contributing
-Since this project is part of my learning process, I am open to suggestions, ideas, and contributions. Feel free to open an issue or submit a pull request if you have any improvements or would like to collaborate.
+Since this project is part of my learning process, I am open to suggestions, ideas, and contributions. Feel free to reach out for improvements and advancements.
